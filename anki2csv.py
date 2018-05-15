@@ -19,3 +19,7 @@ for l in lines2:
     l = re.sub('-;', ',', l)
     l = re.sub('\t', ',', l)
     csv.append(l)
+
+result = str.join('\n', csv)
+with open('out.csv', 'a') as out:
+    out.write(result)
