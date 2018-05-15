@@ -1,0 +1,606 @@
+You (Singular)	<div>你 -&nbsp;nǐ</div>
+<div>你 -&nbsp;nǐ</div>	You (singular)
+Good, fine, nice	<div>好 -&nbsp;hǎo</div>
+<div>好 -&nbsp;hǎo</div>	Good, fine, nice
+You (polite singular)	<div>您 -&nbsp;nín</div>
+<div>您 -&nbsp;nín</div>	You (polite singular)
+Zero	<div>零 -&nbsp;líng</div>
+<div>零 -&nbsp;líng</div>	Zero
+One	<div>一 -&nbsp;yī</div>
+<div>一 -&nbsp;yī</div>	One
+Two	<div>二 -&nbsp;èr</div>
+<div>二 -&nbsp;èr</div>	Two
+Five	<div>五 -&nbsp;wǔ</div>
+<div>五 -&nbsp;wǔ</div>	Five
+<div>Eight</div>	<div>八 -&nbsp;bā</div>
+<div>八 -&nbsp;bā</div>	Eight
+You (Plural)	<div>你们 -&nbsp;nǐmen</div>
+Teacher	<div>老师 -&nbsp;lǎo shī</div>
+<div>老师 -&nbsp;lǎo shī</div>	Teacher
+<div>你们 -&nbsp;nǐmen</div>	You (plural)
+Morning, early morning	<div>早上 -&nbsp;zǎoshang</div>
+<div>早上 -&nbsp;zǎoshang</div>	Morning, early morning
+be	<div>是 -&nbsp;shì</div>
+<div>是 -&nbsp;shì</div>	be
+Which, what	<div>哪 -&nbsp;nǎ</div>
+<div>哪 -&nbsp;nǎ</div>	Which, what
+Country, state, nation	<div>国 -&nbsp;guó</div>
+<div>国 -&nbsp;guó</div>	Country, state, nation
+People, human being	<div>人 -&nbsp;rén</div>
+<div>人 -&nbsp;rén</div>	People, human being
+I, me	<div>我 -&nbsp;wǒ</div>
+<div>我 -&nbsp;wǒ</div>	I, me
+Used at the end of an interrogative sentence (What about...?, And...?)	<div>呢 -&nbsp;ne</div>
+<div>呢 -&nbsp;ne</div>	Used at the end of an interrogative sentence (What about...?, And...?)
+he, him	<div>他 -&nbsp;tā</div>
+<div>他 -&nbsp;tā</div>	he, him
+three	<div>三 -&nbsp;sān</div>
+<div>三 -&nbsp;sān</div>	three
+four	<div>四 -&nbsp;sì</div>
+<div>四 -&nbsp;sì</div>	four
+ten	<div>十 -&nbsp;shí</div>
+<div>十 -&nbsp;shí</div>	ten
+Excuse me, may I ask	<div>请问 -&nbsp;qǐngwèn</div>
+<div>请问 -&nbsp;qǐngwèn</div>	Excuse me, may I ask
+Please	<div>请 -&nbsp;qǐng</div>
+<div>请 -&nbsp;qǐng</div>	Please
+Ask	<div>问 -&nbsp;wèn</div>
+<div>问 -&nbsp;wèn</div>	Ask
+Call, name	<div>叫 -&nbsp;jiào</div>
+<div>叫 -&nbsp;jiào</div>	Call, name
+What	<div>什么 -&nbsp;shénme</div>
+什么 -&nbsp;shénme	What
+Name, given or personal name	<div>名字 -&nbsp;míngzi</div>
+名字 -&nbsp;míngzi	Name, given or personal name
+Be surnamed	<div>姓 -&nbsp;xìng</div>
+<div>姓 -&nbsp;xìng</div>	Be surnamed
+Know, recognize	<div>认识 -&nbsp;rènshi</div>
+认识 -&nbsp;rènshi	Know, recognize
+Very, very much	<div>很 -&nbsp;hěn</div>
+很 -&nbsp;hěn	Very, very much
+Glad, happy	高兴 -&nbsp;gāoxìng
+高兴 -&nbsp;gāo xìng	Glad, happy
+Also, too, as well	<div>也 -&nbsp;yě</div>
+<div>也 -&nbsp;yě</div>	Also, too, as well
+Your (honourable) surname	<div>贵姓 -&nbsp;guìxìng</div>
+贵姓 -&nbsp;guìxìng	Your (honourable) surname
+Six	<div>六 -&nbsp;liù</div>
+<div>六 -&nbsp;liù</div>	Six
+Seven	<div>七 - qī</div>
+<div>七 -&nbsp;qī</div>	Seven
+Nine	<div>九 -&nbsp;jiǔ</div>
+九 -&nbsp;jiǔ	Nine
+<div>Student studying abroad</div>	留学生 -&nbsp;liúxuéshēng
+<div>留学生 - liúxuéshēng</div>	Student studying abroad
+She, her	<div>她 -&nbsp;tā</div>
+<div>她 -&nbsp;tā</div>	She, her
+Learn, study	学习 -&nbsp;xuéxí
+学习 -&nbsp;xuéxí	Learn, study
+They, them	<div>他们 -&nbsp;tāmen</div>
+他们 -&nbsp;tāmen	They, them
+Used to form a plural number when added to a personal pronoun or a noun	<div>们 -&nbsp;men</div>
+<div>们 -&nbsp;men</div>	Used to form a plural number when added to a personal pronoun or a noun
+Together	<div>一起 -&nbsp;yīqǐ</div>
+<div>一起 -&nbsp;yīqǐ</div>	Together
+Attend class, go to class, have class	<div>上课 - shàngkè</div>
+上课 -&nbsp;shàngkè	Attend class, go to class, have class
+Speak, say, talk	<div>说 -&nbsp;shuō</div>
+说 -&nbsp;shuō	Speak, say, talk
+France	<div>法国 - Fǎguó</div>
+法国 -&nbsp;Fǎguó	France
+<div>Chinese (language)</div>	<div>汉语 -&nbsp;Hànyǔ</div>
+汉语 -&nbsp;Hànyǔ	Chinese (language)
+<div>Thailand</div>	<div>泰国 -&nbsp;Tàiguó</div>
+泰国 -&nbsp;Tàiguó	Thailand
+<div>China</div>	<div>中国 -&nbsp;Zhōngguó</div>
+中国 -&nbsp;Zhōngguó	China
+Used at the end of a (yes/no) question	<div>吗 -&nbsp;ma</div>
+吗 -&nbsp;ma	Used at the end of a (yes/no) question
+Not, no	<div>不 -&nbsp;bù</div>
+不 -&nbsp;bù	Not, no
+<div>English (language)</div>	英语 -&nbsp;Yīngyǔ
+英语 -&nbsp;Yīngyǔ	English (language)
+<div>French (language)</div>	法语 -&nbsp;Fǎyǔ
+法语 -&nbsp;Fǎyǔ	French (language)
+<div>Who,whom</div>	谁 -&nbsp;shéi (shuí)
+谁 -&nbsp;shéi (shuí)	Who,whom
+<div>Fellow student, schoolmate, classmate</div>	同学 -&nbsp;tóngxué
+同学 -&nbsp;tóngxué	Fellow student, schoolmate, classmate
+<div>Japanese language</div>	日语 -&nbsp;Rìyǔ
+日语 -&nbsp;Rìyǔ	Japanese language
+<div>Korean language&nbsp;</div>	韩语 -&nbsp;Hányǔ
+韩语 -&nbsp;Hányǔ	Korean language&nbsp;
+<div>German (language)</div>	德语 -&nbsp;Déyǔ
+德语 -&nbsp;Déyǔ	German (language)
+<div>Italian (language)</div>	意大利语 -&nbsp;Yìdàlìyǔ
+意大利语 -&nbsp;Yìdàlìyǔ	Italian (language)
+<div>Spanish language</div>	西班牙语 -&nbsp;Xībānyáyǔ
+西班牙语 -&nbsp;Xībānyáyǔ	Spanish language
+<div>Family, home</div>	家 -&nbsp;jiā
+家 -&nbsp;jiā	Family, home
+<div>Have, possess, there be</div>	有 -&nbsp;yǒu
+有 -&nbsp;yǒu	Have, possess, there be
+<div>A measure word</div>	口 -&nbsp;kǒu
+口 -&nbsp;kǒu	A measure word (family members)
+<div>Father, dad</div>	爸爸 -&nbsp;bàba
+爸爸 -&nbsp;bàba	Father, dad
+<div>Mother, mom</div>	妈妈 -&nbsp;māma
+妈妈 -&nbsp;māma	Mother, mom
+<div>Older brother</div>	哥哥 -&nbsp;gēge
+哥哥 -&nbsp;gēge	Older brother
+<div>And</div>	和 -&nbsp;hé
+和 -&nbsp;hé	And
+<div>Office worker, staff member</div>	职员 -&nbsp;zhíyuán
+职员 -&nbsp;zhíyuán	Office worker, staff member
+<div>All, both</div>	都 -&nbsp;dōu
+都 -&nbsp;dōu	All, both
+<div>College or university student</div>	大学生 -&nbsp;dàxuéshēng
+大学生 -&nbsp;dàxuéshēng	College or university student
+<div>How many</div>	几 -&nbsp;jǐ
+几 -&nbsp;jǐ	How many
+<div>Do, engage in</div>	做 -&nbsp;zuò
+做 -&nbsp;zuò	Do, engage in
+<div>Job, work, task</div>	工作 -&nbsp;gōngzuò
+工作 -&nbsp;gōngzuò	Job, work, task
+<div>Lawyer, attorney</div>	律师 -&nbsp;lǜshī
+律师 -&nbsp;lǜshī	Lawyer, attorney
+<div>Doctor, medical practitioner</div>	医生 -&nbsp;yīshēng
+医生 -&nbsp;yīshēng	Doctor, medical practitioner
+<div>You (plural)</div>	你们 -&nbsp;nǐmen
+你们 -&nbsp;nǐmen	You (plural)
+<div>Team,&nbsp;class, group</div>	班 -&nbsp;bān
+班 -&nbsp;bān	Team,&nbsp;class, group
+<div>How much,&nbsp;how many</div>	多少 -&nbsp;duōshao
+多少 -&nbsp;duōshao	How much,&nbsp;how many
+<div>Used before nouns without a special classifier of their own</div>	个 -&nbsp;gè
+个 -&nbsp;gè	Used before nouns without a special classifier of their own
+<div>Student</div>	学生 -&nbsp;xuésheng
+学生 -&nbsp;xuésheng	Student
+<div>We,&nbsp;us</div>	我们 -&nbsp;wǒmen
+我们 -&nbsp;wǒmen	We,&nbsp;us
+<div>Two</div>	两 -&nbsp;liǎng
+两 -&nbsp;liǎng	Two
+<div>Older sister</div>	姐姐 -&nbsp;jiějie
+姐姐 -&nbsp;jiějie	Older sister
+<div>Younger sister</div>	妹妹 -&nbsp;mèimei
+妹妹 -&nbsp;mèimei	Younger sister
+<div>Younger brother</div>	弟弟 -&nbsp;dìdi
+弟弟 -&nbsp;dìdi	Younger brother
+<div>Worker, labourer</div>	工人 -&nbsp;gōngrén
+工人 -&nbsp;gōngrén	Worker, labourer
+<div>Peasant,&nbsp;farmer</div>	农民 -&nbsp;nóngmín
+农民 -&nbsp;nóngmín	Peasant,&nbsp;farmer
+<div>Nurse</div>	护士 -&nbsp;hùshi
+护士 -&nbsp;hùshi	Nurse
+<div>Police,&nbsp;police officer</div>	警察 -&nbsp;jǐngchá
+警察 -&nbsp;jǐngchá	Police,&nbsp;police officer
+<div>Want to, would like to, be going to</div>	想 -&nbsp;xiǎng
+想 -&nbsp;xiǎng	Want to, would like to, be going to
+<div>Buy, purchase</div>	买 -&nbsp;mǎi
+买 -&nbsp;mǎi	Buy, purchase
+<div>Electronic dictionary</div>	电子词典 -&nbsp;diànzǐ&nbsp;cídiǎn
+电子词典 -&nbsp;diànzǐ&nbsp;cídiǎn	Electronic dictionary
+<div>Electronic</div>	电子 -&nbsp;diànzǐ
+电子 -&nbsp;diànzǐ	Electronic
+<div>Dictionary</div>	词典 -&nbsp;cídiǎn
+词典 -&nbsp;cídiǎn	Dictionary
+<div>Computer</div>	电脑 -&nbsp;diànnǎo
+电脑 -&nbsp;diànnǎo	Computer
+<div>Used for books, films, machines etc</div>	部 -&nbsp;bù
+部 -&nbsp;bù	Used for books, films, machines etc
+<div>Hundred</div>	百 -&nbsp;bǎi
+百 -&nbsp;bǎi	Hundred
+<div>Unit of money</div>	块 -&nbsp;kuài
+块 -&nbsp;kuài	Unit of money
+<div>Money</div>	钱 -&nbsp;qián
+钱 -&nbsp;qián	Money
+<div>Used for certian machinery or apparatus</div>	台 -&nbsp;tái
+台 -&nbsp;tái	Used for certian machinery or apparatus
+<div>Thousand</div>	千 -&nbsp;qiān
+千 -&nbsp;qiān	Thousand
+<div>Altogether, in all</div>	一共 -&nbsp;yīgòng
+一共 -&nbsp;yīgòng	Altogether, in all
+<div>Need</div>	需要 -&nbsp;xūyào
+需要 -&nbsp;xūyào	Need
+<div>Attendant, shop assistant</div>	营业员 -&nbsp;yíngyèyuán
+营业员 -&nbsp;yíngyèyuán	Attendant, shop assistant
+<div>Want, need</div>	要 -&nbsp;yào
+要 -&nbsp;yào	Want, need
+<div>Bread</div>	面包 -&nbsp;miànbāo
+面包 -&nbsp;miànbāo	Bread
+<div>Kind, sort, type, variety</div>	种 -&nbsp;zhǒng
+种 -&nbsp;zhǒng	Kind, sort, type, variety
+<div>This</div>	这 -&nbsp;zhè
+这 -&nbsp;zhè	This
+<div>Thank, be grateful</div>	谢谢 -&nbsp;xièxie
+谢谢 -&nbsp;xièxie	Thank, be grateful
+<div>You're welcome</div>	不客气 -&nbsp;bù kèqi
+不客气 -&nbsp;bù kèqi	You're welcome
+<div>Polite, courteous</div>	客气 -&nbsp;kèqi
+客气 -&nbsp;kèqi	Polite, courteous
+<div>Banana</div>	香蕉 -&nbsp;xiāngjiāo
+香蕉 -&nbsp;xiāngjiāo	Banana
+<div>Weight equal to 0.5 kg</div>	斤 -&nbsp;jīn
+斤 -&nbsp;jīn	Weight equal to 0.5 kg
+<div>Apple</div>	苹果 -&nbsp;píngguǒ
+苹果 -&nbsp;píngguǒ	Apple
+<div>Again,&nbsp;once more, one more time</div>	再 -&nbsp;zài
+再 -&nbsp;zài	Again,&nbsp;once more, one more time
+<div>A&nbsp;fractional monetary unit in China(=1/10 yuan)</div>	毛 -&nbsp;máo
+毛 -&nbsp;máo	A&nbsp;fractional monetary unit in China(=1/10 yuan)
+<div>Book</div>	书 -&nbsp;shū (measure word běn)
+书 -&nbsp;shū (measure word běn)	Book
+<div>Cell phone</div>	手机 -&nbsp;shǒujī (measure word gè/bù)
+手机 -&nbsp;shǒujī (measure word gè/bù)	Cell phone
+<div>Coffee</div>	咖啡 -&nbsp;kāfēi (measure word bēi)
+咖啡 -&nbsp;kāfēi (measure word bēi)	Coffee
+<div>Milk</div>	牛奶 -&nbsp;niúnǎi (measure word dài/hé)
+牛奶 -&nbsp;niúnǎi (measure word dài/hé)	Milk
+<div>Beer</div>	啤酒 -&nbsp;píjiǔ (measure word píng)
+啤酒 -&nbsp;píjiǔ (measure word píng)	Beer
+<div>Mineral spring water</div>	矿泉水 -&nbsp;kuàngquánshuǐ (measure word píng)
+矿泉水 -&nbsp;kuàngquánshuǐ (measure word píng)	Mineral spring water
+<div>Cola, coke</div>	可乐 -&nbsp;kělè (measure word píng)
+可乐 -&nbsp;kělè (measure word píng)	Cola, coke
+<div>Strawberry</div>	草莓 -&nbsp;cǎoméi (measure word jīn/gōngjīn)
+草莓 -&nbsp;cǎoméi (measure word jīn/gōngjīn)	Strawberry
+<div>Watermelon</div>	西瓜 -&nbsp;xīguā (measure word jīn/gōngjīn)
+西瓜 -&nbsp;xīguā (measure word jīn/gōngjīn)	Watermelon
+<div>Orange, tangerine</div>	橘子 -&nbsp;júzi (measure word jīn/gōngjīn)
+橘子 -&nbsp;júzi (measure word jīn/gōngjīn)	Orange, tangerine
+<div>Classroom building</div>	教学楼 -&nbsp;jiàoxuélóu
+教学楼 -&nbsp;jiàoxuélóu	Classroom building
+<div>Teaching</div>	教学 -&nbsp;jiàoxué
+教学 -&nbsp;jiàoxué	Teaching
+<div>Storied building</div>	楼 -&nbsp;lóu
+楼 -&nbsp;lóu	Storied building
+<div>Indicationg where a person or thing is</div>	在 -&nbsp;zài
+在 -&nbsp;zài	Indicationg where a person or thing is
+<div>Here</div>	这儿 -&nbsp;zhèr
+这儿 -&nbsp;zhèr	Here
+<div>Library</div>	图书馆 -&nbsp;túshūguǎn
+图书馆 -&nbsp;túshūguǎn	Library
+<div>Side</div>	边 -&nbsp;biān
+边 -&nbsp;biān	Side
+<div>North</div>	北边 -&nbsp;běibiān
+北边 -&nbsp;běibiān	North
+<div>West</div>	西边 -&nbsp;xībiān
+西边 -&nbsp;xībiān	West
+<div>South</div>	南边 -&nbsp;nánbian
+南边 -&nbsp;nánbian	South
+<div>Sports field</div>	运动场 -&nbsp;yùndòngchǎng
+运动场 -&nbsp;yùndòngchǎng	Sports field
+<div>Gym,&nbsp;gymnasium</div>	体育馆 -&nbsp;tǐyùguǎn
+体育馆 -&nbsp;tǐyùguǎn	Gym,&nbsp;gymnasium
+<div>Restaurant</div>	饭馆 -&nbsp;fànguǎn
+饭馆 -&nbsp;fànguǎn	Restaurant
+<div>Also, too, as well, in addition</div>	还 -&nbsp;hái
+还 -&nbsp;hái	Also, too, as well, in addition
+<div>Supermarket</div>	超市 -&nbsp;chāoshì
+超市 -&nbsp;chāoshì	Supermarket
+<div>Today</div>	今天 -&nbsp;jīntiān
+今天 -&nbsp;jīntiān	Today
+<div>Month</div>	月 -&nbsp;yuè
+月 -&nbsp;yuè	Month
+<div>day</div>	日 -&nbsp;rì
+日 -&nbsp;rì	day
+<div>week</div>	星期 -&nbsp;xīngqī
+星期 -&nbsp;xīngqī	week
+<div>(used after an attribute) of</div>	的 -&nbsp;de
+的 -&nbsp;de	(used after an attribute) of
+<div>birthday</div>	生日 -&nbsp;shēngrì
+生日 -&nbsp;shēngrì	birthday
+<div>to finish class</div>	下课 -&nbsp;xià kè
+下课 -&nbsp;xià kè	to finish class
+<div>after</div>	以后 -&nbsp;yǐhòu
+以后 -&nbsp;yǐhòu	after
+<div>plan, intend</div>	准备 -&nbsp;zhǔnbèi
+准备 -&nbsp;zhǔnbèi	plan, intend
+<div>invite</div>	请 -&nbsp;qǐng
+请 -&nbsp;qǐng	invite
+<div>to eat</div>	吃 -&nbsp;chī
+吃 -&nbsp;chī	to eat
+<div>meal</div>	饭 -&nbsp;fàn
+饭 -&nbsp;fàn	meal
+<div>right</div>	对 -&nbsp;duì
+对 -&nbsp;duì	right
+<div>ordinal number</div>	号 -&nbsp;hào
+号 -&nbsp;hào	ordinal number
+<div>how about?</div>	怎么样 -&nbsp;zěnmeyàng
+怎么样 -&nbsp;zěnmeyàng	how about?
+<div>to wish,&nbsp;to express good wishes</div>	祝 -&nbsp;zhù
+祝 -&nbsp;zhù	to wish,&nbsp;to express good wishes
+<div>happy</div>	快乐 -&nbsp;kuàilè
+快乐 -&nbsp;kuàilè	happy
+<div>gift,&nbsp;present</div>	礼物 -&nbsp;lǐwù
+礼物 -&nbsp;lǐwù	gift,&nbsp;present
+<div>classifier for books, periodicals, files etc</div>	本 -&nbsp;běn
+本 -&nbsp;běn	classifier for books, periodicals, files etc
+<div>book</div>	书 -&nbsp;shū
+书 -&nbsp;shū	book
+<div>classifier for rods such as pens and guns</div>	支 -&nbsp;zhī
+支 -&nbsp;zhī	classifier for rods such as pens and guns
+<div>pen</div>	笔 -&nbsp;bǐ
+笔 -&nbsp;bǐ	pen
+<div>interjection or grunt of agreement</div>	啊 -&nbsp;a
+啊 -&nbsp;a	interjection or grunt of agreement
+<div>time, period</div>	时间 -&nbsp;shíjiān
+时间 -&nbsp;shíjiān	time, period
+<div>no problem</div>	没问题 -&nbsp;méi wèntí
+没问题 -&nbsp;méi wèntí	no problem
+<div>not have, be without</div>	没(有) -&nbsp;méi (yǒu)
+没(有) -&nbsp;méi (yǒu)	not have, be without
+<div>question, problem</div>	问题 -&nbsp;wèntí
+问题 -&nbsp;wèntí	question, problem
+<div>tomorrow</div>	明天 -&nbsp;míngtiān
+明天 -&nbsp;míngtiān	tomorrow
+<div>the day after tomorrow</div>	后天 -&nbsp;hòutiān
+后天 -&nbsp;hòutiān	the day after tomorrow
+<div>yesterday</div>	昨天 -&nbsp;zuótiān
+昨天 -&nbsp;zuótiān	yesterday
+<div>the day before yesterday</div>	前天 -&nbsp;qiántiān
+前天 -&nbsp;qiántiān	the day before yesterday
+<div>newspaper</div>	报纸 -&nbsp;bàozhǐ
+报纸 -&nbsp;bàozhǐ	newspaper
+<div>magazine</div>	杂志 -&nbsp;zázhì
+杂志 -&nbsp;zázhì	magazine
+<div>clothes</div>	衣服 -&nbsp;yīfu
+衣服 -&nbsp;yīfu	clothes
+<div>every day</div>	每天 -&nbsp;měitiān
+每天 -&nbsp;měitiān	every day
+<div>o'clock</div>	点 -&nbsp;diǎn
+点 -&nbsp;diǎn	o'clock
+<div>half</div>	半 -&nbsp;bàn
+半 -&nbsp;bàn	half
+<div>to get out of bed</div>	起床 -&nbsp;qǐ chuáng
+起床 -&nbsp;qǐ chuáng	to get out of bed
+<div>to rise</div>	起 -&nbsp;qǐ
+起 -&nbsp;qǐ	to rise
+<div>bed</div>	床 -&nbsp;chuáng
+床 -&nbsp;chuáng	bed
+<div>early</div>	先 -&nbsp;xiān
+先 -&nbsp;xiān	early
+<div>to bathe</div>	洗澡 -&nbsp;xǐ zǎo
+洗澡 -&nbsp;xǐ zǎo	to bathe
+<div>to wash</div>	洗 -&nbsp;xǐ
+洗 -&nbsp;xǐ	to wash
+<div>after that</div>	然后 -&nbsp;ránhòu
+然后 -&nbsp;ránhòu	after that
+<div>breakfast</div>	早饭 -&nbsp;zǎofàn
+早饭 -&nbsp;zǎofàn	breakfast
+<div>be less than</div>	差 -&nbsp;chà
+差 -&nbsp;chà	be less than
+<div>quarter (hour)</div>	刻 -&nbsp;kè
+刻 -&nbsp;kè	quarter (hour)
+<div>classroom</div>	教室 -&nbsp;jiàoshì
+教室 -&nbsp;jiàoshì	classroom
+<div>to begin</div>	开始 -&nbsp;kāishǐ
+开始 -&nbsp;kāishǐ	to begin
+<div>afternoon</div>	下午 -&nbsp;xiàwǔ
+下午 -&nbsp;xiàwǔ	afternoon
+<div>frequently</div>	常常 -&nbsp;chángcháng
+常常 -&nbsp;chángcháng	frequently
+<div>evening</div>	晚上 -&nbsp;wǎnshang
+晚上 -&nbsp;wǎnshang	evening
+<div>sometimes</div>	有时候 -&nbsp;yǒu shíhou
+有时候 -&nbsp;yǒu shíhou	sometimes
+<div>television</div>	电视 -&nbsp;diànshì
+电视 -&nbsp;diànshì	television
+<div>to go online, surf the internet</div>	上网&nbsp;shàng wǎng
+上网&nbsp;shàng wǎng	to go online, surf the internet
+<div>now, at present</div>	现在 -&nbsp;xiànzài
+现在 -&nbsp;xiànzài	now, at present
+<div>matter</div>	事 -&nbsp;shì
+事 -&nbsp;shì	matter
+<div>to open</div>	开 -&nbsp;kāi
+开 -&nbsp;kāi	to open
+<div>gate</div>	门 -&nbsp;mén
+门 -&nbsp;mén	gate
+<div>to close</div>	关 -&nbsp;guān
+关 -&nbsp;guān	to close
+<div>tomorrow</div>	明天 -&nbsp;míngtiān
+明天 -&nbsp;míngtiān	tomorrow
+<div>arrangement</div>	安排 -&nbsp;ānpái
+安排 -&nbsp;ānpái	arrangement
+<div>morning</div>	上午 -&nbsp;shàng wǔ
+上午 -&nbsp;shàng wǔ	morning
+<div><div>friend</div></div>	朋友 -&nbsp;péngyou
+朋友 -&nbsp;péngyou	friend
+<div>to meet</div>	见面 -&nbsp;jiàn miàn
+见面 -&nbsp;jiàn miàn	to meet
+<div>movie</div>	电影 -&nbsp;diànyǐng
+电影 -&nbsp;diànyǐng	movie
+<div>goodbye</div>	再见 -&nbsp;zàijiàn
+再见 -&nbsp;zàijiàn	goodbye
+<div>city</div>	城市 -&nbsp;chéngshì
+城市 -&nbsp;chéngshì	city
+<div>park</div>	公园 -&nbsp;gōngyuán
+公园 -&nbsp;gōngyuán	park
+<div>there</div>	那里 -&nbsp;nàli
+那里 -&nbsp;nàli	there
+<div>mountain</div>	山 -&nbsp;shān
+山 -&nbsp;shān	mountain
+<div>water</div>	水 -&nbsp;shuǐ
+水 -&nbsp;shuǐ	water
+<div>tree</div>	树 -&nbsp;shù
+树 -&nbsp;shù	tree
+<div>flower</div>	花 -&nbsp;huā
+花 -&nbsp;huā	flower
+<div>scenery</div>	风景 -&nbsp;fēngjǐng
+风景 -&nbsp;fēngjǐng	scenery
+<div>very much</div>	非常 -&nbsp;fēicháng
+非常 -&nbsp;fēicháng	very much
+<div>pretty</div>	漂亮 -&nbsp;piàoliang
+漂亮 -&nbsp;piàoliang	pretty
+<div>air</div>	空气 -&nbsp;kōngqì
+空气 -&nbsp;kōngqì	air
+<div>fresh</div>	新鲜 -&nbsp;xīnxiān
+新鲜 -&nbsp;xīnxiān	fresh
+<div>many</div>	多 -&nbsp;duō
+多 -&nbsp;duō	many
+<div>to climb a mountain</div>	爬山 -&nbsp;pá shān
+爬山 -&nbsp;pá shān	to climb a mountain
+<div>to climb</div>	爬 -&nbsp;pá
+爬 -&nbsp;pá	to climb
+<div>to breathe</div>	呼吸 -&nbsp;hūxī
+呼吸 -&nbsp;hūxī	to breathe
+<div>busy</div>	忙 -&nbsp;máng
+忙 -&nbsp;máng	busy
+<div>to hear (sth said)</div>	听说 -&nbsp;tīngshuō
+听说 -&nbsp;tīngshuō	to hear (sth said)
+<div>to set off</div>	出发 -&nbsp;chūfā
+出发 -&nbsp;chūfā	to set off
+<div>to try to find</div>	找 -&nbsp;zhǎo
+找 -&nbsp;zhǎo	to try to find
+<div>everyone</div>	大家 -&nbsp;dàjiā
+大家 -&nbsp;dàjiā	everyone
+<div>tired</div>	累 -&nbsp;lèi
+累 -&nbsp;lèi	tired
+<div>to think</div>	觉得 -&nbsp;juéde
+觉得 -&nbsp;juéde	to think
+<div>rest</div>	休息 -&nbsp;xiūxi
+休息 -&nbsp;xiūxi	rest
+<div>(used after a verb) give it a go</div>	一下 -&nbsp;yīxià
+一下 -&nbsp;yīxià	(used after a verb) give it a go
+<div>small</div>	小 -&nbsp;xiǎo
+小 -&nbsp;xiǎo	small
+<div>teahouse</div>	茶馆 -&nbsp;cháguǎn
+茶馆 -&nbsp;cháguǎn	teahouse
+<div>tea</div>	茶 -&nbsp;chá
+茶 -&nbsp;chá	tea
+<div>to drink</div>	喝 -&nbsp;hē
+喝 -&nbsp;hē	to drink
+<div>a little</div>	一点儿 -&nbsp;yīdiǎnr
+一点儿 -&nbsp;yīdiǎnr	a little
+<div>roommate</div>	同屋 -&nbsp;tóngwū
+同屋 -&nbsp;tóngwū	roommate
+<div>(located) at</div>	在 -&nbsp;zài
+在 -&nbsp;zài	(located) at
+<div>home</div>	家 -&nbsp;jiā
+<div>家 -&nbsp;jiā</div>	home
+<div>car, vehicle</div>	汽车 - qìchē
+汽车 - qìchē	car, vehicle
+<div>(business) company</div>	公司 -&nbsp;gōngsī
+公司 -&nbsp;gōngsī	(business) company
+<div>to work</div>	工作 -&nbsp;gōngzuò
+工作 -&nbsp;gōngzuò	to work
+<div>from ...to ...</div>	从 ... 到 ... -&nbsp;cóng ...&nbsp;dào ...
+从 ... 到 ... -&nbsp;cóng ...&nbsp;dào ...	from ...to ...
+<div>to go to work</div>	上班 -&nbsp;shàng bān
+<div>上班 -&nbsp;shàng bān</div>	to go to work
+<div>weekend</div>	周末 -&nbsp;zhōumò
+<div>周末 -&nbsp;zhōumò</div>	weekend
+<div>normal times</div>	平时 -&nbsp;píngshí
+平时 -&nbsp;píngshí	normal times
+<div>school</div>	学校 -&nbsp;xuéxiào
+学校 -&nbsp;xuéxiào	school
+<div>dining hall</div>	食堂 -&nbsp;shítáng
+食堂 -&nbsp;shítáng	dining hall
+<div>when,while</div>	...的时候 - ...&nbsp;de&nbsp;shíhou
+...的时候 - ...&nbsp;de&nbsp;shíhou	when,while
+<div>time</div>	时候 -&nbsp;shíhou
+时候 -&nbsp;shíhou	time
+<div>to prepare a meal</div>	做饭 - zuò fàn
+做饭 - zuò fàn	to prepare a meal
+<div>dish (type of food)</div>	菜 -&nbsp;cài
+菜 -&nbsp;cài	dish (type of food)
+<div>chat</div>	聊天儿 -&nbsp;liáo tiānr
+聊天儿 -&nbsp;liáo tiānr	chat
+<div>evening meal</div>	晚饭 -&nbsp;wǎnfàn
+晚饭 -&nbsp;wǎnfàn	evening meal
+<div>cell phone</div>	手机 -&nbsp;shǒujī
+手机 -&nbsp;shǒujī	cell phone
+<div>number</div>	号码 -&nbsp;hào mǎ
+号码 -&nbsp;hào mǎ	number
+<div>need not</div>	不用 -&nbsp;bùyòng
+不用 -&nbsp;bùyòng	need not
+<div>need (mostly used in the negative)</div>	用 -&nbsp;yòng
+用 -&nbsp;yòng	need (mostly used in the negative)
+<div>to work</div>	干 -&nbsp;gàn
+干 -&nbsp;gàn	to work
+<div>dormitory</div>	宿舍 -&nbsp;sùshè
+宿舍 -&nbsp;sùshè	dormitory
+<div>to draw</div>	画 -&nbsp;huà
+画 -&nbsp;huà	to draw
+<div>picture, drawing</div>	画儿 -&nbsp;huàr
+画儿 -&nbsp;huàr	picture, drawing
+<div>to like</div>	喜欢 -&nbsp;xǐhuan
+喜欢 -&nbsp;xǐhuan	to like
+<div>Chinese painting</div>	中国画 -&nbsp;Zhōngguóhuà
+中国画 -&nbsp;Zhōngguóhuà	Chinese painting
+<div>same, usual</div>	一般 -&nbsp;yībān
+一般 -&nbsp;yībān	same, usual
+<div>to listen</div>	听 -&nbsp;tīng
+听 -&nbsp;tīng	to listen
+<div>music</div>	音乐 -&nbsp;yīnyuè
+音乐 -&nbsp;yīnyuè	music
+<div>thing</div>	东西 -&nbsp;dōngxi
+东西 -&nbsp;dōngxi	thing
+<div>together</div>	一块儿 -&nbsp;yīkuàir
+一块儿 -&nbsp;yīkuàir	together
+<div>to put in order</div>	收拾 -&nbsp;shōushi
+收拾 -&nbsp;shōushi	to put in order
+<div>room</div>	房间 -&nbsp;fángjiān
+房间 -&nbsp;fángjiān	room
+<div>term</div>	学期 -&nbsp;xuéqī
+学期 -&nbsp;xuéqī	term
+<div>classifier for lessons, subjects, branches of technology</div>	门 -&nbsp;mén
+门 -&nbsp;mén	classifier for lessons, subjects, branches of technology
+<div>interest</div>	兴趣 -&nbsp;xìngqù
+兴趣 -&nbsp;xìngqù	interest
+<div>subject</div>	课 -&nbsp;kè
+课 -&nbsp;kè	subject
+<div>regarding</div>	对 -&nbsp;duì
+对 -&nbsp;duì	regarding
+<div>calligraphy</div>	书法 -&nbsp;shūfǎ
+书法 -&nbsp;shūfǎ	calligraphy
+<div>shadowboxing&nbsp;</div>	太极拳 -&nbsp;tàijíquán
+太极拳 -&nbsp;tàijíquán	shadowboxing&nbsp;
+<div>to be interested</div>	感兴趣 -&nbsp;gǎn xìngqù
+感兴趣 -&nbsp;gǎn xìngqù	to be interested
+<div>but</div>	可是 -&nbsp;kěshì
+可是 -&nbsp;kěshì	but
+<div>same</div>	一样 -&nbsp;yīyàng
+一样 -&nbsp;yīyàng	same
+<div>to choose</div>	选 -&nbsp;xuǎn
+选 -&nbsp;xuǎn	to choose
+<div>or</div>	还是 -&nbsp;háishì
+还是 -&nbsp;háishì	or
+<div>next</div>	下 -&nbsp;xià
+下 -&nbsp;xià	next
+<div>to move,&nbsp;to exercise</div>	运动 -&nbsp;yùndòng
+运动 -&nbsp;yùndòng	to move,&nbsp;to exercise
+<div>to run</div>	跑步 -&nbsp;pǎo bù
+跑步 -&nbsp;pǎo bù	to run
+<div>the body, health</div>	身体 -&nbsp;shēntǐ
+身体 -&nbsp;shēntǐ	the body, health
+<div>hobby</div>	爱好 -&nbsp;àihào
+爱好 -&nbsp;àihào	hobby
+<div>to kick,&nbsp;to play (e.g. soccer)</div>	踢 -&nbsp;tī
+踢 -&nbsp;tī	to kick,&nbsp;to play (e.g. soccer)
+<div>soccer</div>	足球 -&nbsp;zúqiú
+足球 -&nbsp;zúqiú	soccer
+<div>play (a game)</div>	打 -&nbsp;dǎ
+打 -&nbsp;dǎ	play (a game)
+<div>basketball</div>	篮球 -&nbsp;lánqiú
+篮球 -&nbsp;lánqiú	basketball
+<div>most</div>	最 -&nbsp;zuì
+最 -&nbsp;zuì	most
+<div>to ride (an animal or bike)</div>	骑 -&nbsp;qí
+骑 -&nbsp;qí	to ride (an animal or bike)
+<div>bicycle</div>	自行车 -&nbsp;zìxíngchē
+自行车 -&nbsp;zìxíngchē	bicycle
+<div>to sign up</div>	报名 -&nbsp;bào míng
+报名 -&nbsp;bào míng	to sign up
+<div>coffee</div>	咖啡 -&nbsp;kāfēi
+咖啡 -&nbsp;kāfēi	coffee
+<div>classifier for people (honorific)</div>	位 -&nbsp;wèi
+位 -&nbsp;wèi	classifier for people (honorific)
+<div>black tea</div>	红茶 -&nbsp;hóngchá
+红茶 -&nbsp;hóngchá	black tea
+<div>green tea</div>	绿茶 -&nbsp;lǜchá
+绿茶 -&nbsp;lǜchá	green tea
+<div>cup</div>	杯 -&nbsp;bēi
+杯 -&nbsp;bēi	cup
+<div>right</div>	没错儿 - méi&nbsp;cuòr
+没错儿 - méi&nbsp;cuòr	right
